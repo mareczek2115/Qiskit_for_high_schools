@@ -1,0 +1,3 @@
+### What is a quantum computer?
+
+A quantum computer is a machine that uses quantum physics to process given information. The basis is the qubit (quantum bit). Though in future quantum computers probably will be the most powerful machines in the world, today normal computers with standard, two-state bits, are better in terms of computing power, more useful for most of the needed calculations and they serve people every day, while quantum machines will be used to completely other purposes. Of course, a quantum computer is more than just its processor. These next-generation systems will also need new algorithms, software, interconnects, and many other yet-to-be-invented technologies.
