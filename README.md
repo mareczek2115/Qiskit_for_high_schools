@@ -7,5 +7,4 @@ Have you ever heard about quantum computing? No? Don't worry, many people don't 
 ### I. What is a quantum computer?
 Click [*here*](https://github.com/tstopa/Qiskit_for_high_schools/blob/main/tutorial/Qiskit%20tutorial%20for%20students.ipynb) to read it.
 
-### II . What do we need quantum computers for?
-Click [*here*](https://github.com/tstopa/Qiskit_for_high_schools/blob/main/tutorial/What%20do%20we%20need%20quantum%20computers%20for.md) to read it.
+[### II . What do we need quantum computers for?](https://github.com/tstopa/Qiskit_for_high_schools/blob/main/tutorial/What%20do%20we%20need%20quantum%20computers%20for.md)
