@@ -8,4 +8,4 @@ Have you ever heard about quantum computing? No? Don't worry, many people don't 
 
 ### [II. What do we need quantum computers for?](https://github.com/tstopa/Qiskit_for_high_schools/blob/main/tutorial/What%20do%20we%20need%20quantum%20computers%20for.ipynb)
 
-### [III. Do quantum computers exist and can I use one?](https://github.com/tstopa/Qiskit_for_high_schools/blob/main/tutorial/What%20do%20we%20need%20quantum%20computers%20for.md)
+### [III. Do quantum computers exist and can I use one?](https://github.com/tstopa/Qiskit_for_high_schools/blob/main/tutorial/Do%20quantum%20computers%20exist%20and%20can%20I%20use%20one.md)
