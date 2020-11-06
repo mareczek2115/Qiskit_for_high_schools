@@ -13,3 +13,5 @@ Have you ever heard about quantum computing? No? Don't worry, many people don't 
 ### [IV. How to start using Qiskit?](https://github.com/tstopa/Qiskit_for_high_schools/blob/main/tutorial/How%20to%20start%20using%20Qiskit.ipynb)
 
 ### [V. Do I need to know quantum mechanics to use quantum computer?](https://github.com/tstopa/Qiskit_for_high_schools/blob/main/tutorial/Do%20I%20need%20to%20know%20quantum%20mechanics%20to%20use%20quantum%20computer.ipynb)
+
+### [VI. How quantum algorithms are constructed?](https://github.com/tstopa/Qiskit_for_high_schools/blob/main/tutorial/How%20quantum%20algorithms%20are%20constructed.ipynb)
