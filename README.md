@@ -21,3 +21,5 @@ Have you ever heard about quantum computing? No? Don't worry, many people don't 
 ### [VIII. How many qubits existing quantum computers have?](https://github.com/tstopa/Qiskit_for_high_schools/blob/main/tutorial/How%20many%20qubits%20existing%20quantum%20computers%20have.ipynb)
 
 ### [IX. How Qubits are constructed?](https://github.com/tstopa/Qiskit_for_high_schools/blob/main/tutorial/Transmon%20Qubits.ipynb)
+
+### [X. Are all qubits equally good?](https://github.com/tstopa/Qiskit_for_high_schools/blob/main/tutorial/Transmon%20Qubits.ipynb)
